@@ -18,7 +18,6 @@ Por fim, a lâmpada se quebra quando clicado em cima da lâmpada. Nesta etapa fo
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` no seu navegador web.
-3. [Descreva quaisquer outros passos necessários para executar sua aplicação, como configurar um servidor local, por exemplo.]
 
 ## Autor
 
